@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Orbitron', sans-serif;
+    color: #fff;
+    text-align: center;
+}
+#logo-img{
+    width: 150px;
+    padding: 40px 0;
+}
+
+.space{
+    background-image: url("../img/galaxy.webp");
+    background-size: cover;
+    padding: 10px 0 100px 0;
+}
+
+.btn-apply{
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin: 20px 0;
+    font-weight: bold;
+    background: #fff;
+    border: none;
+    font-family: inherit;
+}
+.cta{
+    border-bottom: solid 2px white;
+
+}
+.term{
+    background: black;
+}
